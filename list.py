@@ -1,0 +1,15 @@
+
+#lists are mutable  diffrent operation can be done inside a lit
+#list and string too can work together
+#Lists and function  have built in function used to quickly look through the list without writing loops
+total = 0
+count = 0
+while (True):
+    inp = input('Enter a number: ')
+    if inp == 'done':
+        break
+    value = float(inp)
+    total = total + value
+    count = count + 1
+average = total / count
+print('Average:', average)

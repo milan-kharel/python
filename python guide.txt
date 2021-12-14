@@ -1,0 +1,51 @@
+python comments is given by:# for single line
+docstring is done by quoting data inside triple codes:"""data"""
+
+variable is somewhere you store your data
+example:x=100
+   y=200
+  print(x*y)
+  print(x-y)
+
+datatype in python: numbers,string,list,dictionary,tuple,set
+number consist of: integer just no i.e 10
+                    float consist of decimal value i.e 10.94
+                     complex consist 25j where j is imaginary no
+                     boolean for true false or equal statement
+sting is written inside single quote or double quote where we can operate diffrent methods like finding length,know positionn of letter
+list is an array which is changeable and ordered have index like string
+dictionaries is like list but unorderd changeable and indexed has got key value datatype
+tuple is ordered and unchangeable
+set is collection n does not contain duplicate as in tuple
+
+Type conversion  when convert variable in another datatype
+int(), float(), tuple(), list(), set(), dict()
+
+there are four types of collection data types in python which are used to store collection of data where different task can be done.
+they are: lists, tuples, sets, dictionary
+
+specialised collections data types they are: namedtuple(), chainmap, deque, counter, ordereddict, defaultdict, userdict, userdict, userlist, user docstring
+to have collection u need to call it first: from collectiion import namedtuple
+
+array is basically a data structure which can hold more than one value at  a time. it is collection or ordered series of elements of the same types.
+array can store only one type of data type but list can store all type of datatype inside it
+different thing that can be doe in array are: find length of array, adding/changing element in array, removing/deleting elements of array, array concatenation, slicing and looping through an array
+
+Hash Table or Hashmap
+it is type of data structure that maps keys to its value pairs
+key-value pairs system to easily accesed of data
+can operate operation like: accessing iteams, updating values, deleting enteries
+convert dictionaries into a dataframe neeto import panda
+
+Operators in python: arithematic, assignment,comparision,logical,membership,identify,bitwise
+
+Loops in python: while, for and nested
+
+patterns in python
+
+file handelling:
+
+Fuction in Python:
+Decorators in python
+
+Lamda Fuction
